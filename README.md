@@ -1,8 +1,8 @@
 # 防失联发布
 
 ## 目前可用网址：
-yuntissr.xyz
-yuntissr.space
+http://yuntissr.xyz
+http://yuntissr.space
 
 ## 请伙伴们无比收藏 以防走丢
            
